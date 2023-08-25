@@ -1,0 +1,25 @@
+github-link: 
+git@github.com:oshkoshbagoshh/MERN-eCommerce-Site.git
+
+Model-View-Controller (MVC) is a software architectural pattern commonly used in the design and development of user interfaces in applications. It separates the application's components into three main interconnected parts: the Model, the View, and the Controller. This separation helps to achieve better organization, maintainability, and scalability of the codebase.
+
+Here's a breakdown of each component in the MVC pattern:
+
+1. **Model:**
+   The Model represents the core data and logic of the application. It encapsulates the data, business rules, and any logic related to data manipulation. The Model is responsible for managing and maintaining the application's data and state. It communicates with the database or external data sources if needed. It doesn't know anything about the user interface.
+
+2. **View:**
+   The View is responsible for presenting the data from the Model to the user. It displays the user interface elements, such as buttons, text fields, and graphics, and arranges them to represent the data. The View receives data from the Model and displays it in a format that is understandable to the user. The View doesn't handle the business logic; its primary focus is on rendering the user interface.
+
+3. **Controller:**
+   The Controller acts as an intermediary between the Model and the View. It handles user input and initiates the appropriate actions based on that input. When the user interacts with the View (e.g., clicking a button), the Controller receives the input, processes it, and updates the Model or requests the View to change accordingly. The Controller contains the application's logic and orchestrates the flow of data and actions between the Model and the View.
+
+The benefits of using the MVC pattern include:
+
+- **Separation of Concerns:** Each component has a specific role and responsibility, making the codebase more organized and easier to maintain.
+- **Reusability:** Components can be reused in different parts of the application or in different applications altogether.
+- **Scalability:** The modular nature of MVC allows for easier scalability as new features can be added without affecting existing components.
+- **Collaboration:** Developers can work on different components simultaneously without interfering with each other's work.
+- **Testing:** The separation of concerns allows for more focused and effective testing of individual components.
+
+It's worth noting that while MVC is a well-known and widely used pattern, there are variations and adaptations of it, such as Model-View-ViewModel (MVVM) and Model-View-Presenter (MVP), which cater to specific application needs and technologies.

@@ -2,15 +2,22 @@
 
 - Deployed Link:
 - Demo video:
+- Repository Link: git@github.com:oshkoshbagoshh/MERN-eCommerce-Site.git
+- 
 - 
   
 
 ## Description
-As a user, I would like an e-commerce website that is easy to use, and allows me to log-in, browse items, add items to my cart, and then checkout.
 
-The site design should be minimal, but have strong functionality on the back-end for security (user authentification, etc.)
+### User Story
+- As a user, I would like an e-commerce website that is easy to use, and allows me to log-in, browse items, add items to my cart, and then checkout.
+- I'd like integration with stripe so I can make payments
+- I'd also like for it to be a PWA, so that I can install it onto my desktop
+- The site design should be minimal, but have strong functionality on the back-end for security (user authentification, etc.)
 
-As a developer, I want to utilize the REST API to ensure CRUD operations are successfully routed from the backend to the frontend.
+- As a developer, I want to utilize the REST API to ensure CRUD operations are successfully routed from the backend to the frontend.
+- I will use the MVC (Model-View-Controller) framework as the architecture 
+- I will run test cases using jest
 
 
 
@@ -27,10 +34,19 @@ As a developer, I want to utilize the REST API to ensure CRUD operations are suc
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [MERN-eCommerce-Site](#mern-ecommerce-site)
+  - [Description](#description)
+    - [User Story](#user-story)
+    - [Acceptance Cases](#acceptance-cases)
+  - [Table of Contents (Optional)](#table-of-contents-optional)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Badges](#badges)
+  - [Features](#features)
+  - [How to Contribute](#how-to-contribute)
+  - [Tests](#tests)
 
 
 ## Installation
