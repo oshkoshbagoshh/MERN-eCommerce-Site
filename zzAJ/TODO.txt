@@ -6,3 +6,6 @@ TODO: Part 1
 - Display the total bill of the cart and update it as soon as the user updates the cart.
 - Using Local Storage to store the JWT so that we only allow logged-in users to buy items.
 - Option to pay and checkout, thus creating an order and emptying the cart.
+- Add images for the items (using modals)
+- use pixalbay
+
