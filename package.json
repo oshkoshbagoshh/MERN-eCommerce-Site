@@ -2,10 +2,27 @@
   "name": "mern-ecommerce-site",
   "version": "1.0.0",
   "description": "mern e-commerce site for MERN stack",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": " insert test case here later...\n new line",
+    "start": "node server.js",
+    "server":"nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "AJ Javadi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "5.1.1",
+    "concurrently": "8.2.1",
+    "config":"3.3.9",
+    "express": "4.18.2",
+    "jsonwebtoken": "9.0.1",
+    "mongoose": "7.4.5",
+    "validator": "13.11.0"
+
+  },
+  "devDependencies": {
+    "nodemon":"3.0.1"
+  }
 }
