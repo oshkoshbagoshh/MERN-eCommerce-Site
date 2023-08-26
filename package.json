@@ -6,7 +6,7 @@
   "scripts": {
     "test": " insert test case here later...\n new line",
     "start": "node server.js",
-    "server":"nodemon server.js",
+    "server": "nodemon server.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
@@ -15,14 +15,14 @@
   "dependencies": {
     "bcrypt": "5.1.1",
     "concurrently": "8.2.1",
-    "config":"3.3.9",
+    "config": "3.3.9",
     "express": "4.18.2",
     "jsonwebtoken": "9.0.1",
     "mongoose": "7.4.5",
+    "stripe": "^13.3.0",
     "validator": "13.11.0"
-
   },
   "devDependencies": {
-    "nodemon":"3.0.1"
+    "nodemon": "3.0.1"
   }
 }

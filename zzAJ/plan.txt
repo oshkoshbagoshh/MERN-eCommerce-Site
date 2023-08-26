@@ -18,3 +18,5 @@ Part 5 - Setting up client and Redux
 https://javascript.plainenglish.io/lets-build-a-mern-stack-e-commerce-web-app-444082ae81bd?source=post_page-----accb4c14ce71--------------------------------
 
 
+Part 6 - Redux / React / React Router
+https://javascript.plainenglish.io/lets-build-a-mern-stack-e-commerce-web-app-f26613a344e1
