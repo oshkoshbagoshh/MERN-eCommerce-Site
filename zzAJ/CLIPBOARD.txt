@@ -26,3 +26,5 @@ It's worth noting that while MVC is a well-known and widely used pattern, there 
 
 
 ---
+
+Stripe API Key: 
