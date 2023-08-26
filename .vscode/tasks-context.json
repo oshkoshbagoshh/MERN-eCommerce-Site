@@ -5,6 +5,36 @@
       "complete": false,
       "creationDate": "2023-08-26T03:52:23.803Z",
       "files": []
+    },
+    {
+      "name": "add images for items",
+      "complete": false,
+      "creationDate": "2023-08-26T05:19:50.509Z",
+      "files": []
+    },
+    {
+      "name": "add blog / review component",
+      "complete": false,
+      "creationDate": "2023-08-26T05:19:59.037Z",
+      "files": []
+    },
+    {
+      "name": "add seeders",
+      "complete": false,
+      "creationDate": "2023-08-26T05:20:04.435Z",
+      "files": []
+    },
+    {
+      "name": "heroku",
+      "complete": false,
+      "creationDate": "2023-08-26T05:20:10.649Z",
+      "files": []
+    },
+    {
+      "name": "react",
+      "complete": false,
+      "creationDate": "2023-08-26T05:20:16.466Z",
+      "files": []
     }
   ]
 }

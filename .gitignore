@@ -131,3 +131,4 @@ dist
 
 # DS Store files
 .DS_Store
+.vscode/tasks-context.json
