@@ -34,3 +34,14 @@ https://api.stripe.com
 TODO: stripe API key and SDK 
 curl https://api.stripe.com/v1/customers \
   -u sk_test_51NYu1ML9zoTSpcm6sVsbV0s9VyYo3bZD9rj1ke8qODPi3UlfU4EALwXF9qG210XBNDt4haPq4fF7UyCxwXaLjd6Z00Hir7X8Y7:
+
+
+  ---
+  Axios — Axios will be used to interact with the REST APIs and fetch the data from the server.
+Bootstrap — Bootstrap will be the frontend CSS library we will use to design the frontend.
+redux — This is the state management library we will be using to manage our state.
+react-redux — This is the React version of Redux which will be used to manage the state of our application. (since Redux can be used with various frameworks and libraries. This one is for React.)
+react-router-dom — This will manage the routes of our application. It will help us define routes and allow them to go from one route to another.
+redux-thunk — It is the middleware we will be using in our application which will help us in state management of the application.
+reactstrap — It is the React version for Bootstrap styling, which allows us to use Bootstrap classes as React components.
+react-stripe-checkout — It is used for using Stripe to accept payments in our application.

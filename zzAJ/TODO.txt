@@ -1,5 +1,7 @@
 TODO: Part 1
 ### Acceptance Cases
+
+- [ ] 
 - Authentication using JSON Web Tokens (JWT).
 - Option to add, edit, view and delete all the items in our store.
 - Option to add items or remove items from the cart.
