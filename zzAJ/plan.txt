@@ -20,3 +20,7 @@ https://javascript.plainenglish.io/lets-build-a-mern-stack-e-commerce-web-app-44
 
 Part 6 - Redux / React / React Router
 https://javascript.plainenglish.io/lets-build-a-mern-stack-e-commerce-web-app-f26613a344e1
+
+Part 7 -  Finishing the project
+https://javascript.plainenglish.io/lets-build-a-mern-stack-e-commerce-web-app-8b0ef902d25e
+
