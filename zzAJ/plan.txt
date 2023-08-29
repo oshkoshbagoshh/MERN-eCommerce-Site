@@ -7,10 +7,10 @@ Part 2 - build models
 https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-2-designing-the-models-e231b2454aba
 
 
-Part 3 - REST APIs / Controllers / Routes
+Part 3 - REST APIs / Controllers / Routes. Building authentification and item routes / controllers 
 https://javascript.plainenglish.io/lets-build-a-mern-stack-e-commerce-web-app-d619f3374d73
 
-Part 4 - REST APIs / Stripe 
+Part 4 - REST APIs / Stripe. Building the cart and order routes and controllers 
 https://javascript.plainenglish.io/lets-build-a-mern-stack-e-commerce-web-app-accb4c14ce71
 
 

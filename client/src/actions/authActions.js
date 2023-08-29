@@ -1,4 +1,4 @@
-// hanle all the authentication actions in 4 part. (loadUser, register, login, logout)
+// handle all the authentication actions in 4 part. (loadUser, register, login, logout)
 // also have helper function tokenconfig which would get token from local storage and return header for fetching the currentntly logged in user details
 
 import axios from 'axios';

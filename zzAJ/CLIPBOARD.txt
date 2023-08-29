@@ -52,3 +52,4 @@ loadUser — It first sets the type as USER_LOADING to indicate that the user is
 register — It takes in the name, email and password from the frontend and then makes these a JSON object. We then hit the API endpoint to register and pass in the data. We then receive a response and set the data received as payload, and the type is set to REGISTER_SUCCESS. We handle errors the same way as in the previous function and set the error type as REFGISTER_FAIL.
 login — It works similarly to the register function works. The difference is that the login function gets email and password only and then hits the API endpoint meant for login. We get a response and set the payload as the data received from the response, and set the type as LOGIN_SUCCESS. We handle errors similarly and set the error type as LOGIN_FAIL.
 logout — We just set the type as LOGOUT_SUCCESS, and that is all we need to do for logout.
+
